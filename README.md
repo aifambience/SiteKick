@@ -1,4 +1,4 @@
-# Website Builder Backend
+# SiteKick
 
 A Node.js + TypeScript backend that accepts website prompts (for example, via WhatsApp), generates a GitHub repository for the site, and deploys it to Vercel.
 
